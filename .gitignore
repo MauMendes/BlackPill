@@ -4,3 +4,4 @@
 *.elf
 *.bin
 BlackPill_Rtc/Debug
+BlackPill_BlinkLed/Debug
