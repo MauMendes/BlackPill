@@ -5,3 +5,4 @@
 *.bin
 BlackPill_Rtc/Debug
 BlackPill_BlinkLed/Debug
+BlackPill_KeyButton/Debug
